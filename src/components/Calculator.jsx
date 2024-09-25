@@ -160,7 +160,7 @@ const Calculator = () => {
     <>
     <div
     style={{
-        backgroundImage: `url('./assets/calculator.jpg')`, // Replace with your image path
+        backgroundImage: `url('./src/assets/calculator.jpg')`, // Replace with your image path
         backgroundSize: 'cover',
         // backgroundPosition: 'center',
         width: '100%',
@@ -169,7 +169,6 @@ const Calculator = () => {
         alignItems: 'center'
       }}
     >
-      <img src={require('./assets/calculator.jpg')} alt="Calculator" />
 
     {/* <div className='d-flex justify-content-center align-item-center'>
       <h1 style={{color:'red'}}>CALCULATOR</h1>
