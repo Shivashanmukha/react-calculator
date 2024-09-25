@@ -160,7 +160,7 @@ const Calculator = () => {
     <>
     <div
     style={{
-        backgroundImage: `url('./src/assets/calculator.jpg')`, // Replace with your image path
+        backgroundImage: `url('./assets/calculator.jpg')`, // Replace with your image path
         backgroundSize: 'cover',
         // backgroundPosition: 'center',
         width: '100%',
