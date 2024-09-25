@@ -169,6 +169,8 @@ const Calculator = () => {
         alignItems: 'center'
       }}
     >
+      <img src={require('./assets/calculator.jpg')} alt="Calculator" />
+
     {/* <div className='d-flex justify-content-center align-item-center'>
       <h1 style={{color:'red'}}>CALCULATOR</h1>
     </div> */}
